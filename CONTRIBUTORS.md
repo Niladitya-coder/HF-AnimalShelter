@@ -1,3 +1,8 @@
+#### Name: [Niladitya Kar](https://github.com/Niladitya-coder)
+- College name: Netaji Subhash Engineering College
+- Department: CSE
+- Bio:
+- GitHub: [Niladitya Kar]_(https://github.com/Niladitya-coder)
 #### Name: [Adarsh Gupta](https://github.com/adarshgupta404)
 - College name: Netaji Subhash Engineering College
 - Department: CSE
